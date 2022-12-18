@@ -1,0 +1,5 @@
+*.ukx filter=lfs diff=lfs merge=lfs -text
+*.uax filter=lfs diff=lfs merge=lfs -text
+*.usx filter=lfs diff=lfs merge=lfs -text
+*.utx filter=lfs diff=lfs merge=lfs -text
+*.u filter=lfs diff=lfs merge=lfs -text

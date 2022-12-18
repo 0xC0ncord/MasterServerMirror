@@ -1,0 +1,11 @@
+*.bat
+*.log
+*.swp
+*.bak
+.Classes
+Classes.sha1sum
+/_TODO.txt
+UT2004.ini
+Art/**
+Audio/**
+Resources/**
