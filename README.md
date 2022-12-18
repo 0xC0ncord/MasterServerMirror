@@ -10,7 +10,7 @@ Download the [latest release](https://github.com/0xC0ncord/MasterServerMirror/re
 ```
 ServerActors=MasterServerMirror.MasterServerMirror
 ```
-2. Edit the master server list, if desired, `MasterServerMirror.ini`.
+2. Edit the master server list, if desired, in `MasterServerMirror.ini`.
 The default configuration is sufficient to list the server in Epic's official master server and no further action is required.
 The configuration for the `MasterServerList` follows the same format as `IpDrv.MasterServerLink` in `UT2004.ini`.
 More than one master server may be specified, and the server actor will take care of creating an uplink for each one.
